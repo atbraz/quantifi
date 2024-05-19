@@ -30,8 +30,8 @@ Inspirations
 
 Quantifi is inspired by the excellent following projects:
 
-- `ffn by pmorissette <https://github.com/pmorissette/ffn>`_ (MIT license)
-- `Riskfolio-Lib by dcajasn <https://github.com/dcajasn/Riskfolio-Lib>`_ (BSD-3-Clause license)
+- `ffn by pmorissette <https://github.com/pmorissette/ffn>`_
+- `Riskfolio-Lib by dcajasn <https://github.com/dcajasn/Riskfolio-Lib>`_
 
 We highly appreciate the work done by these projects. Quantifi seeks to build upon these inspirations, not to copy or redistribute them.
 
